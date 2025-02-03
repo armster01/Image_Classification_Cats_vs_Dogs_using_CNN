@@ -8,7 +8,7 @@ The goal of this project is to create a model that can accurately distinguish be
 
 ## Dataset
 
-The project uses the "Dogs vs. Cats" dataset from Kaggle, which contains thousands of images of cats and dogs. The dataset is downloaded using the `kagglehub` library. You can find the dataset here: [Add link to Kaggle dataset if you wish].
+The project uses the "Dogs vs. Cats" dataset from Kaggle, which contains thousands of images of cats and dogs. The dataset is downloaded using the `kagglehub` library. You can find the dataset here: (https://www.kaggle.com/datasets/anthonytherrien/dog-vs-cat)
 
 ## Model Architecture
 
